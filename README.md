@@ -1,2 +1,1 @@
-# Assignment_of_ProgrammingApplicationsAndPractices
-upload source code about programming lecture assignment in 2022 - 2
+2022-2학기 프로그래밍응용및실습 과제한 파일을 올립니다.
