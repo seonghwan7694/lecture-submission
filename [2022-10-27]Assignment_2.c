@@ -115,9 +115,9 @@ void game(){
     system("clear");
     printf(">> 영어 단어 암기 프로그램 : 게임 <<\n");
     printf("(힌트) %s\n\n\n", list[m][idx].kor);
-
+    printf("---------------------------+\n");
     for(int i = 0; i < 3; i++){
-      printf("%50s\n", people[i]);
+      printf("%34s\n", people[i]);
     }
 
     printf("\n\n\n");
@@ -165,8 +165,9 @@ void game(){
         printf(">> 영어 단어 암기 프로그램 : 게임 <<\n");
         printf("(힌트) %s\n\n\n", list[m][idx].kor);
 
+        printf("---------------------------+\n");
         for(int i = 0; i < 3; i++){
-          printf("%50s\n", people[i]);
+          printf("%34s\n", people[i]);
         }
 
         printf("\n\n\n");
@@ -189,8 +190,9 @@ void game(){
         printf(">> 영어 단어 암기 프로그램 : 게임 <<\n");
         printf("(힌트) %s\n\n\n", list[m][idx].kor);
 
+        printf("---------------------------+\n");
         for(int i = 0; i < 3; i++){
-          printf("%50s\n", people[i]);
+          printf("%34s\n", people[i]);
         }
 
         printf("\n\n\n");
